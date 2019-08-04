@@ -1,2 +1,1 @@
-# commerce-site
-one page JS application front-end 
+JS to inegrate into any content web page
